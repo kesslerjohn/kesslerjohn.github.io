@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Annus Mirabilis"
 title_separator          : "-"
 name                     : &name "John Kessler"
-description              : &description "I am an MCS candidate at the University of Iowa. My personal interests include "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "I am an MCS candidate at the University of Iowa. My personal interests include interests."
+url                      : https://kesslerjohn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kesslerjohn.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "John Kessler"
-  avatar           : "fall_2023_square.png"
+  avatar           : "/images/fall_2023_square.png"
   bio              : "Languages, mostly constructed"
   location         : "Iowa City, IA"
   employer         :
