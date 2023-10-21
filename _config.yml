@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Annus Mirabilis"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "John Kessler"
 description              : &description "I am an MCS candidate at the University of Iowa. My personal interests include interests."
