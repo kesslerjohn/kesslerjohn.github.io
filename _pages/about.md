@@ -16,8 +16,3 @@ I am personally interested in a variety of topics in computer science and elsewh
 - Theory of programming languages
 - Automated Reasoning and Formal Verification
 - Natural Language Processing
-
-------
-This website was developed from a template provided by academicpages. More information can be found at [this repository](https://github.com/academicpages/academicpages.github.io).
-
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
