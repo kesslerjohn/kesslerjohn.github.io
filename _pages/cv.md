@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Computer Science, University of Iowa, 2024
+* Master of Arts, Linguistics, University of Iowa, 2022
+* Bachelor of Arts, English Literature, Maryville College, 2017
 
 Work experience
 ======
