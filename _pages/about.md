@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm John!"
+title: "Hi, I'm John."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,5 +15,5 @@ I am currently working with the PATHOME project team on the development of an Ag
 
 I am personally interested in a variety of topics in computer science and elsewhere. Some examples include:
 - Theory of programming languages
-- Automated Reasoning and Formal Verification : I am working on a [Haskell SAT-solver for First Order Logic](https://github.com/kesslerjohn/folley)
+- Automated Reasoning and Formal Verification: I am working on a [Haskell SAT-solver for First Order Logic](https://github.com/kesslerjohn/folley)
 - Natural Language Processing
