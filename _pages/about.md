@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Master's in Computer Science and a Master's in Linguistics from the University of Iowa.
-In my recent work, I have collaborated with research teams from diverse academic backgrounds spanning multiple institutions (The University of Iowa; The University of Wisconsin, Madison; the African Population and Health Research Center; and others) on projects in computational epidemiology and applied machine learning.
+I hold a Master of Computer Science and a Master of Arts in Linguistics from the University of Iowa.
+In my recent work, I have collaborated with research teams from diverse academic backgrounds spanning multiple institutions (The African Population and Health Research Center; The University of Iowa; The University of Wisconsin, Madison; and others) on projects in precision medicine, computational epidemiology, and applied machine learning.
 
-I am currently working with the PATHOME project team on the development of an Agent Based Model to predict which types of social, behavioral, and infrastructure interventions will most efficiently reduce transmission of enteric pathogens in infants. See more about the project [here.](https://sewell.lab.uiowa.edu/pathome)
+I am currently working with the PATHOME project team on the development of Agent-Based Modeling software to predict which types of social, behavioral, and infrastructure interventions will most efficiently reduce transmission of enteric pathogens in infants. See more about the project [here.](https://sewell.lab.uiowa.edu/pathome) 
 
 I am personally interested in a variety of topics in computer science and elsewhere. Some examples include:
 - Theory of programming languages
