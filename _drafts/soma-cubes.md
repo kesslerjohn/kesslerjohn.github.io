@@ -3,8 +3,6 @@ layout: single
 title:  "Making a Wooden Soma Cube Puzzle"
 date: 2023-10-28
 permalink: /posts/2024/05/soma-cubes/
-header:
-  teaser: "unsplash-gallery-image-2-th.jpg"
 categories: 
   - Personal Projects
 tags:
@@ -16,3 +14,7 @@ tags:
 This idea came to me from a book of puzzles written by Martin Gardner in the late 20th century. _TODO: Give book name/link if possible._ The puzzle is made up of 7 pieces - the first of which is composed of 3 cubes, while the remaining 6 are each composed of four cubes. Gardner provides a handy illustration of the puzzle pieces:
 
 ![](../images/soma_cubes/gardner's_book.png "the pieces that make up a Soma Cube puzzle")
+
+I used this as a guide to make my copy of the puzzle. I also needed some wooden blocks - I thought my local antiques store would probably have what I needed. Sure enough, _Artifacts_ came through! I found a nice bag of wooden blocks with (mostly) uniform size and design for just $6, tax included. Before you say I got ripped off, this bag holds 48 red cubes, 3/4" on a side, with numbered faces! (plus two slightly smaller blue cubes, also with numbered faces). A set of 27 3/4" wooden cubes at Lowe's would have cost me around $10 - and those don't have numbered faces. 
+
+So what's the big deal about numbered faces? It's not a compromise to buy these cubes, because the numbers give me the opportunity to add another level of curiosity to the puzzle; after all, there's a lot you can do with numbers [citation needed]. One thing you can do is add them together
