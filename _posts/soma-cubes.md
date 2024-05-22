@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Making a Wooden Soma Cube Puzzle"
-date: 2023-10-28
+date: 2024-05-22
 permalink: /posts/2024/05/soma-cubes/
 header:
   teaser: "unsplash-gallery-image-2-th.jpg"
