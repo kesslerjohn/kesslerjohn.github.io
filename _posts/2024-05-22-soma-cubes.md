@@ -16,7 +16,7 @@ This idea came to me from a book of puzzles written by Martin Gardner in the lat
 
 ------
 
-I used this as a guide to make my copy of the puzzle. I also needed some wooden blocks - I thought my local antiques store would probably have what I needed. Sure enough, *Artifacts* came through! I found a nice bag of wooden blocks with (mostly) uniform size and design for just \\$6, tax included. 
+I used this as a guide to make my copy of the puzzle. I also needed some wooden blocks, and my local antiques store came through! I found a nice bag of wooden blocks with (mostly) uniform size and design for just \\$6, tax included. 
 
 ------
 
