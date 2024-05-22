@@ -1,5 +1,5 @@
 ---
-title:  "Making a Wooden Soma Cube Puzzle"
+title: 'Making a Wooden Soma Cube Puzzle'
 date: 2024-05-22
 permalink: /posts/2024/05/soma-cubes/
 tags:
