@@ -12,7 +12,7 @@ This idea came to me from a book of puzzles written by Martin Gardner in the lat
 
 ------
 
-![image still not available](../images/gardners_book.png "the pieces that make up a Soma Cube puzzle")
+![gardners_book](https://github.com/kesslerjohn/kesslerjohn.github.io/assets/80122119/f5660283-e2da-461b-a65d-96284f14f9da)
 
 ------
 
