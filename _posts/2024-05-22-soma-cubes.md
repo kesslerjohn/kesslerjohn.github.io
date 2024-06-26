@@ -8,7 +8,7 @@ tags:
   - recreational mathematics
   - puzzles
 ---
-This idea came to me from [_The Second Scientific American Book of Mathematical Puzzles and Diversions_](https://www.thriftbooks.com/w/the-second-scientific-american-book-of-mathematical-puzzles-and-diversions_martin-gardner/532897/item/4107782/#edition=6130750&idiq=16847410), a collection of puzzles presented by Matrin Gardner and first published in 1958. The puzzle is made up of 7 pieces - the first of which is composed of 3 cubes, while the remaining 6 are each composed of four cubes. Gardner provides a handy illustration of the puzzle pieces:
+This idea came to me from [_The Second Scientific American Book of Mathematical Puzzles and Diversions_](https://www.thriftbooks.com/w/the-second-scientific-american-book-of-mathematical-puzzles-and-diversions_martin-gardner/532897/item/#edition=11752957&idiq=24729931), a collection of puzzles presented by Matrin Gardner and first published in 1958. The puzzle is made up of 7 pieces - the first of which is composed of 3 cubes, while the remaining 6 are each composed of four cubes. Gardner provides a handy illustration of the puzzle pieces:
 
 ------
 
