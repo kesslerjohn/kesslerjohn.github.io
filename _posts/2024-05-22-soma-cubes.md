@@ -8,7 +8,7 @@ tags:
   - recreational mathematics
   - puzzles
 ---
-This idea came to me from a book of puzzles written by Martin Gardner in the late 20th century. _TODO: Give book name/link if possible._ The puzzle is made up of 7 pieces - the first of which is composed of 3 cubes, while the remaining 6 are each composed of four cubes. Gardner provides a handy illustration of the puzzle pieces:
+This idea came to me from [_The Second Scientific American Book of MAthematical Puzzles and Diversions_](https://www.thriftbooks.com/w/the-second-scientific-american-book-of-mathematical-puzzles-and-diversions_martin-gardner/532897/item/4107782/#edition=6130750&idiq=16847410), a collection of puzzles presented by Matrin Gardner and first published in 1958. The puzzle is made up of 7 pieces - the first of which is composed of 3 cubes, while the remaining 6 are each composed of four cubes. Gardner provides a handy illustration of the puzzle pieces:
 
 ------
 
@@ -34,4 +34,5 @@ My first approach was to do this by hand, by drawing out a mesh for each cube (t
 
 I had originally planned to only use the blocks with low-numbered faces, but I realized that if I messed up a block in the process of making the cubes, I wouldn't have enough replacements. So I needed to balance the number of low-valued and high-valued cubes I included. At this point, the number of possible configurations for each cube was becoming overwhelming, and the brute-force approach was too taxing to undertake by hand. 
 
-I resolved this by writing a program to brute-force it for me. The code is available in [this repository](https://github.com/kesslerjohn/soma-cube-puzzle). The program looks at all the choices for 4 cubes, and all possible ways to hide a given number of faces (usually 2 per cube, but in piece 7, the middle cube has 3 hidden faces), and prints out the configurations for which the non-hidden faces sum to a prime number. From this output, I could freely choose configurations that used a balanced number of low- and high-value cube faces.
+I resolved this by writing a program to brute-force it for me. The code is available in [this repository](https://github.com/kesslerjohn/soma-cube-puzzle). The program looks at all the choices for 4 cubes, and all possible ways to hide a given number of faces (usually 2 per cube, but in piece 7, the middle cube has 3 hidden faces), and prints out the configurations for which the non-hidden faces sum to a prime number. From this output, I could freely choose configuratio
+ns that used a balanced number of low- and high-value cube faces.
