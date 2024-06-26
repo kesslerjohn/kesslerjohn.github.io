@@ -16,7 +16,7 @@ This idea came to me from [_The Second Scientific American Book of Mathematical 
 
 ------
 
-I used this as a guide to make my copy of the puzzle. I also needed some wooden blocks, and my local antiques s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tore came through! I found a nice bag of wooden blocks with (mostly) uniform size and design for just \\$6, tax included. 
+I used this as a guide to make my copy of the puzzle. I also needed some wooden blocks, and my local antiques store came through! I found a nice bag of wooden blocks with (mostly) uniform size and design for just \\$6, tax included. 
 
 ------
 
