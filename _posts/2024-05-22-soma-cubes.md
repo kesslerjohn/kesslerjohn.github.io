@@ -26,7 +26,7 @@ I used this as a guide to make my copy of the puzzle. I also needed some wooden 
 
 Before you say I got ripped off, this bag holds 48 red cubes, 3/4" on an edge, with numbered faces! (plus two slightly smaller blue cubes, also with numbered faces). A set of 27 3/4" wooden cubes at Lowe's would have cost me around \\$10 - and those don't have numbered faces. 
 
-So what's the big deal about numbered faces? It's not a compromise to buy these cubes, because the numbers give me the opportunity to add another level of curiosity to the puzzle; after all, there's a lot you can do with numbers [citation needed]. One thing you can do is add them together, so I thought I would try adding them to make prime numbers; I would arrange the cubes so that the sum of the visible faces on each Soma piece would be a prime number. 
+So what's the big deal about numbered faces? The numbers give me the opportunity to add another level of curiosity to the puzzle; after all, there's a lot you can do with numbers [$^{\text{[citation needed]}}$](https://xkcd.com/285/). One thing you can do is add them together, so I thought I would try adding them to make prime numbers; I would arrange the cubes so that the sum of the visible faces on each Soma piece would be a prime number. 
 
 My first approach was to do this by hand, by drawing out a mesh for each cube (there are two kinds - one has faces numbered 0-5, and the other is numbered 5-10). 
 
